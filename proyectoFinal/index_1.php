@@ -1,5 +1,5 @@
 <?php
-
+//Comentario de Alvaro
 session_start();//tiene que invocarse para que funcione
 
 if(isset($_SESSION['username']) == false){
